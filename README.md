@@ -29,23 +29,37 @@ Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Mi
 
 
 <br>
+<p>In this stage of my homelab development, I am leveraging the Microsoft Deployment Toolkit (MDT) to streamline and automate software distribution across my virtual environment. The image shows the New Application Wizard within the Deployment Workbench, where I am configuring a new "Application with source files." By importing these installers directly into the MDT Deployment Share, I can create a standardized repository of essential tools and runtimes. This setup is a critical step in building a "zero-touch" or "lite-touch" deployment strategy, allowing me to PXE boot new virtual machines and have them fully provisioned with a custom OS image and pre-configured software suites without manual intervention.</p>
+
+<br>
 
 <h1>Details</h1>
 <img width="1371" height="725" alt="image" src="https://github.com/user-attachments/assets/ee3b83c6-2551-4e49-918c-4ed832a41dc4" />
 
+<br>
+
+<p>
+ 
+</p>
 
 <br>
-<p>In this stage of my homelab development, I am leveraging the Microsoft Deployment Toolkit (MDT) to streamline and automate software distribution across my virtual environment. The image shows the New Application Wizard within the Deployment Workbench, where I am configuring a new "Application with source files." By importing these installers directly into the MDT Deployment Share, I can create a standardized repository of essential tools and runtimes. This setup is a critical step in building a "zero-touch" or "lite-touch" deployment strategy, allowing me to PXE boot new virtual machines and have them fully provisioned with a custom OS image and pre-configured software suites without manual intervention.</p>
-
 
 <h1>Source</h1>
 <img width="1363" height="722" alt="image" src="https://github.com/user-attachments/assets/ac1ede57-d56d-42b0-993f-5b882e8615dd" />
 
+<br>
+
+<p>
+ 
+</p>
+
+<br>
 
 <h1>Command Details</h1>
 
 <img width="1382" height="725" alt="image" src="https://github.com/user-attachments/assets/18c87a5c-5f7e-4a3e-ae97-d21a456de5f7" />
 
 
+<p></p>
 
 <img width="1377" height="721" alt="image" src="https://github.com/user-attachments/assets/068f0e7e-b108-4d73-afe5-ad6b62bfbee9" />
