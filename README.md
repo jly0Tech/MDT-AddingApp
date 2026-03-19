@@ -1,4 +1,26 @@
-<h1>MDT Application: </h1>
+<h1>Microsoft Deployment Toolkit Adding Google Chrome application: </h1>
+
+
+<p>
+ <ul>
+   <li>adksetup</li>
+   <li>adkwinpesetup</li>
+   <li>Microsoft Deployment Toolkit</li>
+  <li>Microosft Deployment Service (from Windows Server 2022)</li>
+ </ul>
+
+</p>
+
+
+<h2>Introduction</h2>
+
+<p>
+Microsoft Deployment Toolkit is a software that deploys auomtatically WIM file (Windows 11 OS version) on desktops, laptops, and servers.
+In my IT homelab, I actually did a IT class in-person project when I was at Utah Valley University. I knew how to create a boot image and setup DHCP server on the Domain Controller (Windows Server 2022 VM).
+Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Microsoft Deployment Toolkit (Workbench application) from the official Microsot website. Also, I have to download Microsoft Deployment Service
+ on my domain controller, so it is for PXE network when I creat a Client Virtualmachine and it find the Ip address after setup DHCP scope.
+</p>
+
 
 <img width="1358" height="738" alt="image" src="https://github.com/user-attachments/assets/454ec0ab-acf5-497b-8b78-f65057ef772a" />
 
