@@ -58,8 +58,11 @@ Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Mi
 <h1>Command Details</h1>
 
 <img width="1382" height="725" alt="image" src="https://github.com/user-attachments/assets/18c87a5c-5f7e-4a3e-ae97-d21a456de5f7" />
-
+<br>
 
 <p></p>
 
+<br>
 <img width="1377" height="721" alt="image" src="https://github.com/user-attachments/assets/068f0e7e-b108-4d73-afe5-ad6b62bfbee9" />
+
+<p></p>
