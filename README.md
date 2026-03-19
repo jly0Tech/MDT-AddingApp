@@ -21,6 +21,8 @@ Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Mi
  on my domain controller, so it is for PXE network when I creat a Client Virtualmachine and it find the Ip address after setup DHCP scope.
 </p>
 
+<br>
+
 
 <img width="1358" height="738" alt="image" src="https://github.com/user-attachments/assets/454ec0ab-acf5-497b-8b78-f65057ef772a" />
 
@@ -30,6 +32,10 @@ Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Mi
 
 <h1>Details</h1>
 <img width="1371" height="725" alt="image" src="https://github.com/user-attachments/assets/ee3b83c6-2551-4e49-918c-4ed832a41dc4" />
+
+
+<br>
+<p>In this stage of my homelab development, I am leveraging the Microsoft Deployment Toolkit (MDT) to streamline and automate software distribution across my virtual environment. The image shows the New Application Wizard within the Deployment Workbench, where I am configuring a new "Application with source files." By importing these installers directly into the MDT Deployment Share, I can create a standardized repository of essential tools and runtimes. This setup is a critical step in building a "zero-touch" or "lite-touch" deployment strategy, allowing me to PXE boot new virtual machines and have them fully provisioned with a custom OS image and pre-configured software suites without manual intervention.</p>
 
 
 <h1>Source</h1>
