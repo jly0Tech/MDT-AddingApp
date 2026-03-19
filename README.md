@@ -14,6 +14,8 @@
 
 <h2>Introduction</h2>
 
+<br>
+
 <p>
 Microsoft Deployment Toolkit is a software that deploys auomtatically WIM file (Windows 11 OS version) on desktops, laptops, and servers.
 In my IT homelab, I actually did a IT class in-person project when I was at Utah Valley University. I knew how to create a boot image and setup DHCP server on the Domain Controller (Windows Server 2022 VM).
